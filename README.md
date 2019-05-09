@@ -2,6 +2,8 @@
 
 Bộ dữ liệu tổng hợp các bài viết trên mạng xã hội về lĩnh vực ngân hàng của underthesea
 
+### Thống kê 
+
 Tổng số 2471 bài viết (train: 1977 bài viết, test: 494 bài viết)
 
 14 nhãn khía cạnh 
@@ -29,4 +31,17 @@ Tổng số 2471 bài viết (train: 1977 bài viết, test: 494 bài viết)
 - positive
 - neutral
 - negative 
+```
+
+### Trích dẫn
+
+Vui lòng trích dẫn sau nếu bạn sử dụng dữ liệu này
+
+```
+@online{undertheseanlp/UTS2017_BANK,
+author ={Vu Anh, Bui Nhat Anh},
+year = {2017},
+title ={UTS2017_BANK: Bộ dữ liệu tổng hợp các bài viết trên mạng xã hội về lĩnh vực ngân hàng},
+url ={https://github.com/undertheseanlp/UTS2017_BANK}
+} 
 ```
